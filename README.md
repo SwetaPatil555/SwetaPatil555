@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/309824d4-993b-4b9b-86d3-7d269868be66" />
+
+
 <h1 align="center">Hi 👋, I'm Sweta Patil</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
